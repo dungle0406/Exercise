@@ -16,7 +16,7 @@ public class Pirate {
         } else intoxicate++;
     }
 
-    private void howsItGoingMate() {
+    public void howsItGoingMate() {
         if (!this.isAlive) {
             System.out.println("he's dead");
         } else {

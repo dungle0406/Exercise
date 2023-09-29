@@ -1,3 +1,5 @@
+package TeacherStudent;
+
 //# Teacher Student
 //
 //        - Create `Student` and `Teacher` classes
